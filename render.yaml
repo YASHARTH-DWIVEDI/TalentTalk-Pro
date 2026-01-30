@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: talenttalk-backend
+    env: python
+    buildCommand: cd backend && pip install -r requirements.txt
+    startCommand: cd backend && bash start.sh
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: OPENROUTER_API_KEY
+        fromGroup: talenttalk-secrets
+      - key: GOOGLE_API_KEY
+        fromGroup: talenttalk-secrets

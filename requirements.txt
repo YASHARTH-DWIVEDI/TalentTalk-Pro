@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+langgraph
+langchain
+langchain-google-genai
+python-dotenv
+pydantic
+sqlmodel
+chromadb
+python-multipart
+requests
+google-generativeai
+sentence_transformers
+watchdog
