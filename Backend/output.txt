@@ -1,0 +1,4 @@
+Testing Resume Upload...
+Status Code: 500
+Response Body:
+{"detail":"Internal Server Error: Error code: 400 - {'error': {'message': 'google/gemini-1.5-flash is not a valid model ID', 'code': 400}, 'user_id': 'user_37yjw8tgNpQjTG3dKrdmjnj6Zba'}"}

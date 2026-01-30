@@ -1,0 +1,1 @@
+{"session_id":"de96fd7e-341f-4a39-a65f-b5c1ec2fa58a","message":"Interview initialized with Resume.","first_question":"Given the lack of resume information, let's start with a broad question.\n\nTell me about your experience with different types of testing methodologies.\n"}
